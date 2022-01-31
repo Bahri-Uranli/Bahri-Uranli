@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahri-uranli&label=Profile%20views&color=0e75b6&style=flat" alt="bahri-uranli" /> </p>
-<img align="right" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" alt="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+<img align="right" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" alt="Coding" width="400">
 
 - 🔭 I’m currently working on **Geleceğin Işıkları**
 
