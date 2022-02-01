@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **PHP, MySql, Html, Css, JS**
+- 💬 Ask me about **PHP, MySql, Html, Css, JS and Python**
 
 - 📫 How to reach me **bahri.resmi@gmail.com**
 
