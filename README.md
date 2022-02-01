@@ -24,7 +24,7 @@
 <a href="https://instagram.com/bahri.urnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bahri.urnl" height="30" width="40" /></a>
 <a href="https://dribbble.com/bahri_urnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="bahri_urnl" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bahri_urnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bahri_urnl" height="30" width="40" /></a>
- <a href="mailto:bahri.urnl@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/envelope.svg" alt="bahri_urnl" height="30" width="40" /></a>
+ <a href="mailto:bahri.urnl@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="bahri_urnl" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
